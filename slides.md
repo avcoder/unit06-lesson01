@@ -331,7 +331,26 @@ transition: slide-left
 ---
 
 # Iteration
+to make lists, simply use the vanilla JS array method .map
 
+```jsx
+const PeopleList = () => {
+  return (
+    <div>
+      <h2>People to Follow</h2>
+      { 
+        people.map(person => (
+          <FollowPerson
+            key={person.id}
+            name={person.name}
+            username={person.username}
+          />
+        ))
+      }
+    </div>
+  );
+};
+```
 
 ---
 transition: slide-left
