@@ -295,6 +295,27 @@ transition: slide-left
 transition: slide-left
 ---
 
+# Exercise: Draw components
+Use your Zoom pencil to draw all the potential components on the following 
+
+
+<img src="/assets/weather.png">
+
+---
+transition: slide-left
+---
+
+# Exercise: Draw components (pg.2)
+Use your Zoom pencil to draw all the potential components on the following images
+
+1. [Payment page](https://ebizcharge.com/wp-content/uploads/2022/06/Tarlet-Payment-Page.png)
+1. [LinkedIn Learning Courses page](https://spotlight.lehigh.edu/sites/spotlight.lehigh.edu/files/Screen%20Shot%202020-08-14%20at%2010.32.20%20AM_0.png)
+1. [Dashboard](https://assets.justinmind.com/wp-content/uploads/2020/02/dashboard-design-example-hcare.png)
+
+---
+transition: slide-left
+---
+
 # Exercise: Create simple React websites
 
 - Create a component called `<FollowPerson>`
