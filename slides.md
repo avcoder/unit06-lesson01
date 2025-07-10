@@ -316,7 +316,7 @@ Use your Zoom pencil to draw all the potential components on the following image
 transition: slide-left
 ---
 
-# Exercise: Create simple React websites
+# Exercise: Create simple React component
 
 - Create a component called `<FollowPerson>`
 - see https://tachyons.io/components/lists/follower-notifications/index.html
@@ -330,7 +330,24 @@ transition: slide-left
 transition: slide-left
 ---
 
-# Exercise: Create simple React websites
+# Iteration
+
+
+---
+transition: slide-left
+---
+
+# Exercise: Lists 
+
+- create a list via `.map()` to make at least 3 `<FollowPerson>` components
+
+<img src="/assets/list1.png" >
+
+---
+transition: slide-left
+---
+
+# Exercise: Create simple React website
 
 - Reverse engineer: convert this entire [Email template layout](https://pure-css.github.io/layouts/email/) to JSX; [Github code here](https://github.com/pure-css/pure/tree/main/site/static/layouts/email)
 
