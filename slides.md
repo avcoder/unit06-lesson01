@@ -287,6 +287,14 @@ transition: slide-left
 transition: slide-left
 ---
 
+# Separation of Concerns
+
+<img src="/assets/sepconcerns.png" style="height: 450px">
+
+---
+transition: slide-left
+---
+
 # Exercise: Create simple React websites
 
 - Create a component called `<FollowPerson>`
