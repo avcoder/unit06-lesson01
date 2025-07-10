@@ -228,6 +228,15 @@ transition: slide-left
 
 <img src="/assets/button3.png" >
 
+---
+transition: slide-left
+---
+
+# Configure imports to use absolute paths
+
+- Use ChatGPT to help you configure your tsconfig.json, tsconfig.app.json, vite.config.ts
+- Avoid using relative paths when importing
+- Can now use `import Component from '@/components/whatever'
 
 ---
 layout: image-right
@@ -319,6 +328,7 @@ transition: slide-left
 # Exercise: Create simple React component
 
 - Create a component called `<FollowPerson>`
+- all React components have to start with a Capital Letter
 - see https://tachyons.io/components/lists/follower-notifications/index.html
 
    <img src="/assets/inbox.png" />
