@@ -39,6 +39,7 @@ transition: slide-left
 
 # Recap
 
+- reminder: Algorithm and Data Structure Assignment due Jul. 20 
 - Next Tuesday is cancelled (vacation)
 - Next Thursday you'll have a substitute teacher teach on JSX more in depth
 - we'll have a make-up class on a Wednesday sometime before the end of the unit that doesn't conflict with lab/career night
