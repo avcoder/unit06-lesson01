@@ -280,6 +280,8 @@ transition: slide-left
 
 - Just like you right-click inspect DOM element to find that particular HTML element in the DOM, you can do similar with React components
 - Tip: try clicking on a React component, then in console enter `$r`
+- Goto: instagram.com
+   - Try to find the React component for the Login button
 
 ---
 transition: slide-left
