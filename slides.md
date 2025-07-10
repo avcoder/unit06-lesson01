@@ -270,6 +270,7 @@ Try the following common errors to see what errors look like in React:
 - Using if statements directly inside JSX like `return ( if (show) { <p>Visible</p> });`
 - Not using `key` in lists
 - JSX requires properly closed tags, even for void elements. ex: `<input /> <br />`
+- any red squiggly lines? React related? TS related?
 
 ---
 transition: slide-left
