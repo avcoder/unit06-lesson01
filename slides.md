@@ -291,6 +291,7 @@ transition: slide-left
 - Tip: try clicking on a React component, then in console enter `$r`
 - Goto: instagram.com
    - Try to find the React component for the Login button
+   - in Chrome devtools, use `Cmd + p` to find React file
 
 ---
 transition: slide-left
