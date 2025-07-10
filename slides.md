@@ -122,7 +122,7 @@ transition: slide-left
 # Vite
 How does the browser render React code?
 
-- React is used as part of a build system
+- React is used as part of a build system (historically used not `vite`, but `create-react-app`)
 - All of React code will get processed eventually into regular JS files
 - Problems Vite (and other bundlers like Webpack) solves:
    - In modern web apps (React, Vue etc.) we often write code using languages the browser doesn't understand:
