@@ -37,6 +37,17 @@ Frontend Development: Unit 06 - Lesson 01
 transition: slide-left
 ---
 
+# Recap
+
+- Next Tuesday is cancelled (vacation)
+- Next Thursday you'll have a substitute teacher teach on JSX more in depth
+- we'll have a make-up class on a Wednesday sometime before the end of the unit that doesn't conflict with lab/career night
+- take a look at the frontend assignment in LMS due Aug 17 
+
+---
+transition: slide-left
+---
+
 # History of React
 
 - In 2010s, Facebook developers had to overcome a UI problem; their chat icon would indicate new messages when in reality there were none
@@ -377,15 +388,8 @@ transition: slide-left
 transition: slide-left
 ---
 
-# Exercise: Create simple React website
-
-- Reverse engineer: convert this entire [Email template layout](https://pure-css.github.io/layouts/email/) to JSX; [Github code here](https://github.com/pure-css/pure/tree/main/site/static/layouts/email)
-
-
----
-transition: slide-left
----
-
 # Homework
 
-- Start working on your "Weather Forecasting App" assignment due Aug 17 midnight EST
+- Exercise: Create simple React website
+   - Reverse engineer: convert this entire [Email template layout](https://pure-css.github.io/layouts/email/) to JSX; [Github code here](https://github.com/pure-css/pure/tree/main/site/static/layouts/email)
+- Begin thinking about your "Weather Forecasting App" assignment due Aug 17 midnight EST
